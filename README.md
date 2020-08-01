@@ -6,6 +6,8 @@ Estudante do curso Bacharelado em Engenharia de Software pela Universidade Catol
 [![Gmail Badge](https://img.shields.io/badge/-jean.jr.souza@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Entusiasta de tecnologias e em uma busca incessante por aprendizado e experiência
+
+
 Atualmente focado na STACK: Java, SpringBoot, Angular 9+. 
 Total interesse em aprender alguma outra.
 
